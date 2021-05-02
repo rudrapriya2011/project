@@ -1,0 +1,60 @@
+body {
+text-align: center;
+    background-color:forestgreen ;
+}
+#sec {
+ background:linear-gradient(blue 0% , orange 100%);   
+  z-index: 9;  
+}
+
+.qwe {
+ list-style: none;
+    font-family: fantasy;
+    z-index: 10;
+    cursor: pointer;
+    position: fixed;
+    top: 0px;
+   background-color: aqua;
+    width: 100%;
+    margin-top: 0;
+}
+.rty {
+    font-family: cursive;
+    font-style: italic;
+    font-size: 30px;
+    color: blueviolet;
+   padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: inline;
+}
+.rty:hover{
+  font-size:35px;
+   text-decoration: underline; 
+}
+#A garden map{
+background:pink;}
+h1{
+ color: hotpink;
+    font-size:25px;
+    font-family:cursive;   
+    
+}
+#video{
+background-color: blueviolet;     
+    
+}
+#how to plant trees{
+background-color: cyan;     
+    
+}
+#planting story{
+  background-color:deeppink;
+    color: aliceblue;
+    }
+#gallary{
+  background-color:deepskyblue  
+    
+    
+}
